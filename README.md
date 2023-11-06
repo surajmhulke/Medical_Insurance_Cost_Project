@@ -1,5 +1,6 @@
 ## Medical Insurance Price Prediction 
 ***** database is taken from mysql server**____
+
 This project is designed to predict Medical Insurance Prices using Machine Learning techniques. The "Predictive Modelling for Medical Insurance Premiums" is a data science project aimed at utilizing advanced data analytics and machine learning techniques to enhance the accuracy of predicting medical insurance premiums for individuals. This project seeks to address the need for more precise pricing models in the medical insurance industry, thereby benefiting both insurance providers and policyholders.
 ## Project Description
 ## Problem Statement
